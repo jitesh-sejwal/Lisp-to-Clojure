@@ -3,7 +3,9 @@
 ;            true [y 30 z 90]]
 ;           (list x y z))
 ;(0 1 nil)
-
+;
+;   Author: Jitesh Sejwal
+;
 
 
 (defn condlet-clauses [vars body-fn-name [condition binding]]
